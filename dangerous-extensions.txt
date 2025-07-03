@@ -1,0 +1,23 @@
+1. Data Access:
+   - Extensions can request permission to read/change all website data.
+
+2. Malicious Behaviour:
+   - Some extensions may track keystrokes, steal credentials, or hijack sessions.
+
+3. Fake Publishers:
+   - Unverified or third-party publishers can inject harmful scripts.
+
+4. Hidden Code:
+   - Malicious code can be obfuscated and activated after installation.
+
+5. Poor Ratings/Reviews:
+   - User reviews are red flags. Malware extensions often have low ratings and virus reports.
+
+6. Broad Permissions:
+   - Dangerous ones often ask for access to all URLs, file access, and incognito mode.
+
+7. Bypassing Google’s Review:
+   - Not all extensions are thoroughly reviewed by the Chrome Web Store. Manual checking is crucial.
+
+🧠 **Pro Tip:** 
+Always review extension permissions and source before installing. Stick to official or well-known publishers.

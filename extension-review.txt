@@ -1,0 +1,24 @@
+Initial Review:
+- Total Extensions Installed: 4
+- Names:
+  1. McAfee® WebAdvisor
+  2. T. Rex Dinosaur Game
+  3. MSN + Bing for Chrome
+  4. Application Launcher For Drive (by Google)
+
+Suspicious Behaviour Detected:
+- T. Rex Dinosaur Game:
+  - Low rating (3.3★)
+  - Multiple user reviews have reported concerns about viruses and malware.
+  - Source listed as a third party (elgoog.im) with no verified publisher.
+
+Review Actions Taken:
+- Evaluated permissions (could read & change all site data).
+- Reviewed developer and site link.
+- Checked incognito/URL/file access settings.
+
+Final Action:
+❌ Suspicious extension *T. Rex Dinosaur Game* was uninstalled to prevent potential privacy/security risks.
+
+Conclusion:
+✔️ Cleanup complete. Only trusted and verified extensions remain active.
