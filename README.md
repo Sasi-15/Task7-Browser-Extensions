@@ -1,4 +1,4 @@
-# 🔍 Chrome Extension Evaluation
+# 🔍 Browser(Chrome) Extension Evaluation
 
 > 🎯 **Task Objective:**  
 Evaluate all installed Chrome extensions, identify potentially dangerous ones, and ensure browser security.
